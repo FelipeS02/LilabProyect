@@ -1,0 +1,6 @@
+export const GET_PRODUCTS = "GET_PRODUCTS"
+export const PRODUCTS_BY_CATEGORY = "PRODUCTS_BY_CATEGORY"
+export const ADD_TO_CART = "ADD_TO_CART"
+export const DELETE_FROM_CART = "DELETE_FROM_CART"
+export const GET_CART = "GET_CART"
+export const ORDER_CONFIRM = "ORDER_CONFIRM"
